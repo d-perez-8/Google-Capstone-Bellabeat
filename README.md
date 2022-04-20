@@ -1,14 +1,5 @@
 # Google-Capstone-Bellabeat
----
-title: "Google Capstone Project"
-author: "Danny Perez"
-date: '2022-04-20'
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ### Purpose 
      
